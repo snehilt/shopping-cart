@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Casual Shirt",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 999,
+        "image":"../images/img-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Office Shirt",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 1299,
+        "image":"../images/img-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "T Shirt",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 799,
+        "image":"../images/img-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mens Suit",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 4899,
+        "image":"../images/img-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mens Tie",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 350,
+        "image":"../images/img-5.png"
+    },
+    {
+        "id": 6,
+        "name": "Casual Shoes",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 1699,
+        "image":"../images/img-6.png"
+    },
+    {
+        "id": 7,
+        "name": "Black Suit",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 8999,
+        "image":"../images/img-7.png"
+    },
+    {
+        "id": 8,
+        "name": "Polo Shirt",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 899,
+        "image":"../images/img-8.png"
+    },
+    {
+        "id": 9,
+        "name": "Denim Shirt",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 1799,
+        "image":"../images/img-9.png"
+    },
+    {
+        "id": 10,
+        "name": "Denim Pants",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 1899,
+        "image":"../images/img-10.png"
+    },
+    {
+        "id": 11,
+        "name": "Basic Cap",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 299,
+        "image":"../images/img-11.png"
+    },
+    {
+        "id": 12,
+        "name": "leather boots",
+        "description": "lorem ipsume hkjdsfsd ifubnjkas iouqwe hjcabcaiudrc.",
+        "price": 2299,
+        "image":"../images/img-12.png"
+    }
+]
